@@ -1,3 +1,3 @@
 def
-curren_age_for_birth_year
+curren_age_for_birth_year(birth_year)
 end
